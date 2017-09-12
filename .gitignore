@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/content/data/
+.gitignore
+.idea/
+.vs/config/
+.vs/tasks.vs.json
+Makefile
+content/
+develop_server.sh
+fabfile.py
+output/
+pelicanconf.py
+publishconf.py
+requirements.txt
