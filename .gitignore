@@ -8,6 +8,7 @@
 out
 gen
 /content/data/
+/content/.ipynb_checkpoints
 .gitignore
 .idea/
 .vs/config/
