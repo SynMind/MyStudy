@@ -13,10 +13,10 @@ gen
 .vs/config/
 .vs/tasks.vs.json
 Makefile
-content/
+
 develop_server.sh
 fabfile.py
-output/
+
 pelicanconf.py
 publishconf.py
 requirements.txt
