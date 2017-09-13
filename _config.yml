@@ -1,2 +1,6 @@
 theme: jekyll-theme-tactile
-text: MyStudy/content/
+title: 思维永不止步！
+subtitle:
+description:
+author: xinet
+tag_dir: */content/
