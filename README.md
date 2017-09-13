@@ -1,5 +1,24 @@
 # 思维需要不断的更新！
 
+- [Financial Time Series(金融时间序列)](https://github.com/SynMind/MyStudy/blob/master/content/pandas/pandas.md)
+- [Input_Output](https://github.com/SynMind/MyStudy/blob/master/content/Input_Output/Input_Output.md)
+- [数据的可视化](https://github.com/SynMind/MyStudy/blob/master/content/matplotlib/matplotlib.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ---
 
