@@ -1,11 +1,30 @@
-# MyStudyPlan
+# 思维需要不断的更新！
+
+- [Financial Time Series(金融时间序列)](https://github.com/SynMind/MyStudy/blob/master/content/pandas/pandas.md)
+- [Input_Output](https://github.com/SynMind/MyStudy/blob/master/content/Input_Output/Input_Output.md)
+- [数据的可视化](https://github.com/SynMind/MyStudy/blob/master/content/matplotlib/matplotlib.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ---
 
-1. 2017/8 - 2017-12：学习[Python](https://github.com/q735613050/Python)    [与孩子一起学编程_中文版_详细书签.pdf]
-2. 2017暑假期间：学完TensorFlow基础，并会一些简单的应用。
-3. [Git学习](https://github.com/Xiner-Git-Learning/GithubLearn)
+1. [Python](https://github.com/q735613050/Python) 学习向导
+
+2. [Git学习](https://github.com/Xiner-Git-Learning/GithubLearn)
 
 ---
 ---
