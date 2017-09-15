@@ -1,6 +1,4 @@
 theme: jekyll-theme-tactile
 title: 思维永不止步！
-subtitle:
-description:
 author: xinet
-tag_dir: */content/
+tag_dir: content
