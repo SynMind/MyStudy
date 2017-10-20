@@ -7,7 +7,7 @@
 - [pandas](https://github.com/SynMind/MyStudy/blob/master/content/pandas/pandas.md)
 - [python教程](https://github.com/q735613050/Python)
 - [数学工具](https://github.com/SynMind/MyStudy/blob/master/content/Math_Tools/Math_Tools.md)
-- [知识碎片](https://github.com/q735613050/Fragments)
+
 
 
 
