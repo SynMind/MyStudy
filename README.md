@@ -8,6 +8,8 @@
 - [python教程](https://github.com/q735613050/Python)
 - [数学工具](https://github.com/SynMind/MyStudy/blob/master/content/Math_Tools/Math_Tools.md)
 
+推荐网站：https://morvanzhou.github.io/
+
 
 
 
